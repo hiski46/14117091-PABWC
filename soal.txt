@@ -1,3 +1,8 @@
-1
-2
-3
+Tugas 1.5
+1. Pada tag <meta HTTP-EQUIV="REFRESH" content="0; url=/myweb/myurl">, terdapat kesalaha pada      kurangnya tanda kutip 
+2. Pada saat nilai meta refresh bernilai 5 maka halaman web akan di refresh setiap 5 detik         sekali sedangkan ketika bernilai 0 halam web akan terus menerus di refresh
+3. thead digunakan pada bagian atas table
+   tbody digunakan untuk isi dari tabel
+   tr 	 digunakan untuk menandakan baris baru
+   th 	 digunakan untuk mengisi baris dengan data pada bagian head (atas) tulisan akan 	 	 dipertegas
+   td	 digunakan untuk mengisi baris dengan data pada bagian body
