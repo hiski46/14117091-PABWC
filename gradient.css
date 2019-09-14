@@ -1,0 +1,10 @@
+body {
+	background: rgb(250,250,205);
+}
+
+.gradient {
+	 background:#b22222;
+     background:-webkit-linear-gradient(top,#1DE5E2 0%,#8588F7 75%);
+
+     height:100px;
+}
