@@ -1,0 +1,68 @@
+body{
+	background-image: url(m_6.jpg);
+	padding: 0px;
+	margin: 0px;
+}
+
+div header.a {
+	line-height: 100px;
+	text-align: center;
+	text-decoration: overline underline;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-weight: bold;
+	font-size: 50px;
+	color: white;
+	background-color: rgba(0,0,0,0.5);
+	height: 100px;
+	padding: 10px;
+	margin: 0px
+}
+div nav.b{
+	position: absolute;
+	background-color: rgb(250,250,205);
+	line-height: 0px;
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: 50px;
+}
+content div.e{
+	position: absolute;
+	top: 250px;
+	left: 390px;
+	text-align: center;
+	height: 300px;
+	width: 500px;
+	border: rgb(250,250,205) solid;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+	line-height: 300px;
+}
+
+li{
+	float: left;
+	padding: 10px;
+	font-family: arial;
+	font-weight: bold;
+	list-style: none;
+	overflow: hidden;
+	font-style: none;
+	
+}
+ul{
+	list-style-type: none;
+}
+
+div footer{
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	background-color: rgb(250,250,205);
+	font-style: italic;
+	line-height: 30px;
+	font-size: 12px;
+}
+
+
