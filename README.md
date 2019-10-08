@@ -3,3 +3,5 @@
 Nama  : Hiskia Perdamen Pulungan
 NIM   : 14117091
 Kelas : PABW RC
+Praktikum Asal RC tanpa perpindahan
+
