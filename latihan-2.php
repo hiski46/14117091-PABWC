@@ -38,7 +38,7 @@
 	 	<input type="submit" name="ok" value="Cek">
 	 </form>
 	 <br><br><br>
-
+	 <font color="red"></font>
 	 <?php 
 	 error_reporting(E_ALL ^ (E_NOTICE | E_WARNING));
 	 	if (isset($_GET)) {
